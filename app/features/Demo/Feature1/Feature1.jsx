@@ -9,14 +9,6 @@ class Feature1 extends Component {
   /**
    * Class constructor.
    */
-  constructor (props, context) {
-    super(props, context)
-  }
-
-  componentWillReceiveProps (nextProps) {
-
-  }
-
   componentDidMount () {
     this.props.actions.getIfNeeded()
   }

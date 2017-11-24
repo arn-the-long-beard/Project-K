@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 [![Build Status](https://travis-ci.org/arn-the-long-beard/Project-K.svg?branch=master)](https://travis-ci.org/arn-the-long-beard/Project-K)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
-
+[![NSP Status](https://nodesecurity.io/orgs/krypted/projects/a2e16f69-8702-4ad1-aab3-1978ac46adf4/badge)](https://nodesecurity.io/orgs/krypted/projects/a2e16f69-8702-4ad1-aab3-1978ac46adf4)
 ## Dependencies ###
 
 This demo use a local Iota Node from Localhost.
