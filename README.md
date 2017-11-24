@@ -22,7 +22,6 @@ Stable: Expect patches, possible features additions.
 
 ### Introduction ###
 
-Talk to Speech API ------ Works only on Chrome
 
 * Version
 1.0.0
