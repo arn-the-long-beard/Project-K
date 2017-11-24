@@ -11,7 +11,6 @@ class Feature1 extends Component {
    */
   constructor (props, context) {
     super(props, context)
-
   }
 
   componentWillReceiveProps (nextProps) {
@@ -21,18 +20,12 @@ class Feature1 extends Component {
   componentDidMount () {
     this.props.actions.getIfNeeded()
   }
-
-  onChange = (event) => {
-    event.preventDefault()
-
-  }
-
   /**
    * Render the component.
    */
   render () {
     return (
-      <Component1 data = {this.props.feature1.data} errors = {this.props.feature1.errors} message =  {this.props.feature1.message}
+      <Component1 data={this.props.feature1.data} errors={this.props.feature1.errors} message={this.props.feature1.message}
       />)
   }
 }
