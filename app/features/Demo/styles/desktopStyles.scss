@@ -1,0 +1,27 @@
+
+
+.content {
+  height:80vh;
+  width: 100%; /*this is required for the css isomorphism*/
+}
+
+
+.container{
+
+  background: white;
+  min-height:75vh;
+  max-height: 75vh;
+  overflow: hidden;
+  width: 100%;
+  display:block;
+  margin: 0 auto;
+}
+.container::after {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.container::after {
+  content: "";
+  height: 100%;
+}

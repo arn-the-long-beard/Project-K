@@ -1,0 +1,64 @@
+content {
+  height:80vh;
+  width: 100%; /* or whatever is required */
+  //text-align: center !important; /* ensures the image is always in the h-middle */
+  //background: url('../images/background/connected.png') no-repeat fixed center !important;
+}
+
+
+.container {
+  background: white;
+  padding: 15px;
+  text-align: left;
+  width: auto;
+  position: absolute;
+  top: 15%;
+  z-index: 70;
+  content: "";
+  display: inline-block;
+  min-height: 65vh ;
+  overflow: auto;
+}
+.titleSection {
+  display: inline;
+  margin-bottom: 10px;
+  color: #1c433d;
+}
+
+.label {
+  color: #1c433d;
+}
+
+.titleResult{
+  text-align: center;
+  font-weight: bold;
+  font-size: 100%;
+  display: inline;
+}
+
+.result {
+  display: inline;
+  font-size: 70%;
+  margin-bottom: 10px;
+  color: #1c433d;
+}
+.list {
+  overflow: auto !important;
+  height: 35vh;
+  color: #1c433d;;
+}
+
+
+.menu{
+  padding: 5px;
+  display: inline;
+}
+
+.menu:hover,
+.menu:focus {
+  background: #04819E linear-gradient(#04819E, #206876);
+
+}
+.jsonInspector {
+  justify-content: flex-start;
+}
