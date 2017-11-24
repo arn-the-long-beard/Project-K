@@ -1,7 +1,8 @@
+
 {
-  "name": "see-and-smell",
+  "name": "Project-K",
   "version": "1.0.0",
-  "description": "React-Node.js platform with google Map Api and my carboon foot print calculator",
+  "description": "React-Node.js platform with call to Iota javascript library on local Node",
   "main": "developement.js",
   "engines": {
     "node": "8.1.3"
@@ -113,13 +114,13 @@
   "author": "“arn-the-long-beard” <arn.menant@gmail.com> (https://github.com/arn-the-long-beard)",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/arn-the-long-beard/see-and-smell/issues"
+    "url": "https://github.com/arn-the-long-beard/Project-K/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arn-the-long-beard/see-and-smell.git"
+    "url": "git+https://github.com/arn-the-long-beard/Project-K.git"
   },
-  "homepage": "https://github.com/arn-the-long-beard/see-and-smell#readme",
+  "homepage": "https://github.com/arn-the-long-beard/Project-K#readme",
   "devDependencies": {
     "jshint": "2.9.5",
     "remove": "0.1.5",
