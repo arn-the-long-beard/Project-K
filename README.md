@@ -5,7 +5,7 @@
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Build Status](https://travis-ci.org/arn-the-long-beard/talk-and-seek.svg?branch=master)](https://travis-ci.org/arn-the-long-beard/talk-and-seek)
+[![Build Status](https://travis-ci.org/arn-the-long-beard/Project-K.svg?branch=master)](https://travis-ci.org/arn-the-long-beard/Project-K)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 
  :warning: Works only on Chrome
