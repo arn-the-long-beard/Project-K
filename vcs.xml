@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="arn-the-long-beard" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/arn-the-long-beard/Project-K.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/projects/repos" />
   </component>
 </application>
