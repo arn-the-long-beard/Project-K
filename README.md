@@ -3,7 +3,7 @@
 [![Front‑End_Checklist followed](https://img.shields.io/badge/Front‑End_Checklist-followed-brightgreen.svg)](https://github.com/thedaviddias/Front-End-Checklist/)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-[![Build Status](https://travis-ci.org/arn-the-long-beard/Project-K.svg?branch=master)](https://travis-ci.org/arn-the-long-beard/Project-K)
+[![Build Status](https://travis-ci.org/arn-the-long-beard/Project-K.svg?branch=safe)](https://travis-ci.org/arn-the-long-beard/Project-K)
 ![stability-experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 [![NSP Status](https://nodesecurity.io/orgs/krypted/projects/a7ff9f73-5491-4afc-a870-c39598826622/badge)](https://nodesecurity.io/orgs/krypted/projects/a7ff9f73-5491-4afc-a870-c39598826622)
 ## Dependencies ###
